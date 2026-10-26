@@ -59,4 +59,4 @@ Escríbenos y te enviamos la versión de prueba para usarla con tus propias cart
 
 ## 📬 ¿La quieres en tu IPS?
 
-Escríbenos a **[nexxtiasoluciones@gmail.com](mailto:nexxtiasoluciones@gmail.com)** y agendamos una demo con tus propias cartas.
+Escríbenos a **[nexxtiasolutions@gmail.com](mailto:nexxtiasolutions@gmail.com)** y agendamos una demo con tus propias cartas.
