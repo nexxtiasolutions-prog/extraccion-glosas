@@ -5,6 +5,11 @@
   <b>5 horas → 5 minutos</b> para consolidar 20 cartas · <b>2.900 PDFs</b> en validación · <b>1,2 s</b> por PDF
 </p>
 
+<p align="center">
+  <img src="docs/clasificar.png" alt="Clasificación automática: 8 cartas mezcladas, 7 entidades detectadas y la tabla lista para exportar a Excel" width="860">
+</p>
+<p align="center"><sub>Capturas con datos de ejemplo ficticios.</sub></p>
+
 ---
 
 ## 😩 El problema
@@ -25,6 +30,9 @@ respuesta a la glosa y en la cartera.
 > $ 100.008.590 en objeciones, 0 fallas.
 
 ## 🏥 Entidades compatibles
+
+<p align="center"><img src="docs/inicio.png" alt="Pantalla de una entidad con el menú de aseguradoras y EPS" width="760"></p>
+
 
 Sura EPS · Sura ARL · Bolívar · Mundial · Positiva · Previsora (glosas y devoluciones) ·
 Solidaria · AXA Colpatria (SOAT y ARL) · Seguros del Estado
